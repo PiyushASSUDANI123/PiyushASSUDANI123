@@ -44,7 +44,7 @@
             If you have any questions or inquiries, please don't hesitate to get in touch with us. You can reach us at:
         </p>
         <ul>
-            <li>Email: your@email.com</li>
+            <li>Email: Piyushassudani96@email.com</li>
             <li>Phone: +1 (123) 456-7890</li>
             <li>Address: 123 Main Street, City, Country</li>
         </ul>
