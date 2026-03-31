@@ -45,8 +45,8 @@
         </p>
         <ul>
             <li>Email: Piyushassudani96@email.com</li>
-            <li>Phone: +1 (123) 456-7890</li>
-            <li>Address: 123 Main Street, City, Country</li>
+            <li>Phone: +91</li>
+            <li>Address: Barmer , Rajasthan </li>
         </ul>
     </div>
 </body>
