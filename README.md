@@ -1,4 +1,4 @@
-# 🚀 Piyush Assudani | Founder of Loyalto
+# 🚀 Piyush Assudani | Founder of ASSUDANI GROUP
 
 **Full-Stack Developer | 3D Web Specialist | Cybersecurity Enthusiast**
 
@@ -7,10 +7,9 @@ I build high-performance digital products that bridge the gap between complex en
 ---
 
 ### 📈 Business & Impact
-* **Revenue Milestone:** Crossed **₹35,000+** in turnover through strategic digital solutions.
 * **Successful Exits:** Developed and successfully sold **CaptiAI**, an AI-powered caption engine.
 * **Client Success:** Digitized local infrastructure for brands like *Rainbow E Smart School*, *REDS School*, and *MRK Engineers*.
-* **Active Projects:** Scaling **Loyalto** into a full-service digital marketing and software powerhouse.
+* **Active Projects:** Scaling **Loyalto ( a sub company under assudani group) ** into a full-service digital marketing and software powerhouse.
 
 ---
 
@@ -37,7 +36,7 @@ I build high-performance digital products that bridge the gap between complex en
 I am open to high-stakes collaborations and custom software development through **Assudani Developers**.
 
 * **📧 Email:** [piyushassudani96@gmail.com](mailto:piyushassudani96@gmail.com)
-* **🌐 Portfolio:** [Assudani.tech](https://github.com/Piyush-Assudani) *(Update with your domain)*
+* **🌐 Portfolio:** [piyushassudani.com](piyushassudani.site) *(Update with your domain)*
 * **📍 Location:** Barmer / Jodhpur, Rajasthan
 
 ---
