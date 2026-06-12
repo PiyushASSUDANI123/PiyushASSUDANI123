@@ -36,7 +36,7 @@ I build high-performance digital products that bridge the gap between complex en
 I am open to high-stakes collaborations and custom software development through **Assudani Developers**.
 
 * **📧 Email:** [piyushassudani96@gmail.com](mailto:piyushassudani96@gmail.com)
-* **🌐 Portfolio:** [piyushassudani.com](piyushassudani.site) *(Update with your domain)*
+* **🌐 Portfolio:** [piyushassudani.com](piyushassudani.site) 
 * **📍 Location:** Barmer / Jodhpur, Rajasthan
 
 ---
